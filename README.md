@@ -1,6 +1,6 @@
 # Someone's XD75 Keyboard Layout
 
-I've been using this keyboard for 5 years now. As a programmer and a Thai who uses the Shift key a lot, this layout is designed to make my life easier. Here's the main idea:
+I've been using this keyboard for 5 years now. As a programmer and a Thai who uses the ```shift``` key a lot, this layout is designed to make my life easier. Here's the main idea:
 
 **Thumb Productivity:**
 - Using my left thumb to press ```win```, ```shift```, ```ctrl```, and ```alt``` is surprisingly productive.
